@@ -1,0 +1,2 @@
+ReadMe for Drupal
+Drupal is an open source content management platform powering millions of websites and applications. It’s built, used, and supported by an active and diverse community of people around the world.
